@@ -1,0 +1,22 @@
+/*
+ * Husky BBS Server for Linux
+ * Version 3.0 Copyright (C) 1997-1998-1999-2000-2001 by Hidayet Dogan
+ *
+ * E-mail: hdogan@bilcag.net or hidayet.dogan@pleksus.net.tr
+ *
+ * Refer to the file "LICENSE" included in this package for further
+ * information and before using any of the following.
+ *
+ * + Original Diku Mud copyright (C) 1990, 1991 by Sebastian Hammer,
+ *   Michael Seifert, Hans Henrik St{rfeldt, Tom Madsen, and Katja Nyboe.
+ * + Merc Diku Mud improvments copyright (C) 1992, 1993 by Michael
+ *   Chastain, Michael Quan, and Mitchell Tse.
+ * + ROM 2.4 is copyright 1993-1998 Russ Taylor
+ * + SMAUG 1.4 (C) 1994, 1995, 1996, 1998 by Derek Snider
+ *
+ * Original Diku license in the file 'doc/diku.license',
+ * Merc license in the file 'doc/merc.license',
+ * ROM license in the file 'doc/rom.license' and
+ * Smaug license in the file 'doc/smaug.license'
+ */
+

@@ -1,0 +1,992 @@
+Keyword greeting1~
+Level -1
+Text
+.
+
+     ::   .:       ...    :::     .::::::.      :::  .       .-:.     ::-.
+    ,;;   ;;,      ;;     ;;;    ;;;`    `      ;;; .;;,.     ';;.   ;;;;'
+   ,[[[,,,[[[     [['     [[[    '[==/[[[[,     [[[[[/'         '[[,[[['
+   "$$$"""$$$     $$      $$$      '''    $    _$$$$,             c$$"
+    888   "88o    88    .d888     88b    dP    "888"88o,        ,8P"`
+    MMM    YMM     "YmmMMMM""      "YMmMY"      MMM "MMP"      mM"
+
+             B u l l e t i n    B o a r d    S y s t e m
+
+Version: 3.0
+
+Original DikuMUD code by: Hans Staerfeldt, Katja Nyboe, Tom Madsen,
+                          Michael Seifert and Sebastian Hammer
+Original Merc 2.1 code by: Hatchet, Furey, and Kahn
+ROM 2.4 copyright (c) 1993-1998 Russ Taylor
+SMAUG 1.4 written by Thoric (Derek Snider) with Altrag, Blodkai, Haus, Narn,
+Scryn, Swordbearer, Tricops, Gorog, Rennard, Grishnakh, Fireblade and Nivek
+
+Type your name and password if you have an account.
+Type NEW to create a new one.
+If you don't want to do something then type BYE to leave.
+~
+End
+Keyword	greeting6~
+Level -1
+Text
+.
+                                WELCOME TO
+                  ___ ,__,,__,  ,___  ____ ____,__,___,  __,
+                 [##@ [##VV##B  !#BL,@B4#@ @##^Y##"###C  ##@
+                  M#L  ## )##    B@ [#@ YB l#D,MM   @#W_/#"
+                  B#9 ,##  ##    B@ \##N,  l#@MB    `##N#@
+                  W######  ##a   #@  M##Bg j###Bc    ?##@
+                  @#@"?##  @#@   #@ _ "##B l#@Q#W     M#L
+                  B#L  ##  Y##a_/#L #G `##9[#@ ##C    B#C
+                  W#L ,##a  @####@  Y#g_#B Z#@ ##@,   B#L
+                 ]##@ [##@   4##"   `####" ### ###@  ]##M
+
+                 B u l l e t i n    B o a r d    S y s t e m
+
+Version: 3.0
+
+Original DikuMUD code by: Hans Staerfeldt, Katja Nyboe, Tom Madsen,
+                          Michael Seifert and Sebastian Hammer
+Original Merc 2.1 code by: Hatchet, Furey, and Kahn 
+ROM 2.4 copyright (c) 1993-1998 Russ Taylor
+SMAUG 1.4 written by Thoric (Derek Snider) with Altrag, Blodkai, Haus, Narn,
+Scryn, Swordbearer, Tricops, Gorog, Rennard, Grishnakh, Fireblade and Nivek 
+
+Type your name and password if you have an account.
+Type NEW to create a new one.
+If you don't want to do something then type BYE to leave.
+~
+End
+Keyword	greeting2~
+Level -1
+Text
+.
+        ___           ___           ___           ___          ___
+       /\__\         /\__\         /\  \         /\__\        |\__\
+      /:/  /        /:/  /        /::\  \       /:/  /        |:|  |
+     /:/__/        /:/  /        /:/\ \  \     /:/__/         |:|  |
+    /::\  \ ___   /:/  /  ___   _\:\^\ \  \   /::\__\____     |:|__|__
+   /:/\:\  /\__\ /:/__/  /\__\ /\ \:\ \ \__\ /:/\:::::\__\    /::::\__\
+   \/__\:\/:/  / \:\  \ /:/  / \:\ \:\ \/__/ \/_|:|^^|^      /:/^^/^
+        \::/  /   \:\  /:/  /   \:\ \:\__\      |:|  |      /:/  /
+        /:/  /     \:\/:/  /     \:\/:/  /      |:|  |     /:/  /
+       /:/  /       \::/  /       \::/  /       |:|  |    /:/  / 
+       \/__/         \/__/         \/__/         \|__|    \/__/
+
+               B u l l e t i n    B o a r d    S y s t e m
+
+Version: 3.0
+
+Original DikuMUD code by: Hans Staerfeldt, Katja Nyboe, Tom Madsen,
+                          Michael Seifert and Sebastian Hammer
+Original Merc 2.1 code by: Hatchet, Furey, and Kahn 
+ROM 2.4 copyright (c) 1993-1998 Russ Taylor
+SMAUG 1.4 written by Thoric (Derek Snider) with Altrag, Blodkai, Haus, Narn,
+Scryn, Swordbearer, Tricops, Gorog, Rennard, Grishnakh, Fireblade and Nivek 
+
+Type your name and password if you have an account.
+Type NEW to create a new one.
+If you don't want to do something then type BYE to leave.
+~
+End
+Keyword	greeting4~
+Level -1
+Text
+.
+        ooooo   ooooo                      oooo
+        `888'   `888'                      `888
+         888     888  oooo  oooo   .oooo.o  888  oooo  oooo    ooo
+         888ooooo888  `888  `888  d88(  "8  888 .8P'    `88.  .8'
+         888     888   888   888  `"Y88b.   888888.      `88..8'
+         888     888   888   888  o.  )88b  888 `88b.     `888'
+        o888o   o888o  `V88V"V8P' 8""888P' o888o o888o     .8'
+                                                       .o..P'
+         B u l l e t i n    B o a r d    S y s t e m   `Y8P'
+
+Version: 3.0
+
+Original DikuMUD code by: Hans Staerfeldt, Katja Nyboe, Tom Madsen,
+                          Michael Seifert and Sebastian Hammer
+Original Merc 2.1 code by: Hatchet, Furey, and Kahn 
+ROM 2.4 copyright (c) 1993-1998 Russ Taylor
+SMAUG 1.4 written by Thoric (Derek Snider) with Altrag, Blodkai, Haus, Narn,
+Scryn, Swordbearer, Tricops, Gorog, Rennard, Grishnakh, Fireblade and Nivek 
+
+Type your name and password if you have an account.
+Type NEW to create a new one.
+If you don't want to do something then type BYE to leave.
+~
+End
+Keyword	greeting5~
+Level -1
+Text
+.
+                                WELCOME TO
+
+       dMP dMP dMP dMP .dMMMb  dMP dMP dMP dMP    dMMMMb  dMMMMb  .dMMMb
+      dMP dMP dMP dMP dMP" VP dMP.dMP dMP.dMP    dMP"dMP dMP"dMP dMP" VP
+     dMMMMMP dMP dMP  VMMMb  dMMMMK"  VMMMMP    dMMMMK" dMMMMK"  VMMMb
+    dMP dMP dMP.aMP dP .dMP dMP"AMF dA .dMP    dMP.aMF dMP.aMF dP .dMP
+   dMP dMP  VMMMP"  VMMMP" dMP dMP  VMMMP"    dMMMMP" dMMMMP"  VMMMP"
+
+               B u l l e t i n    B o a r d    S y s t e m
+
+Version: 3.0
+
+Original DikuMUD code by: Hans Staerfeldt, Katja Nyboe, Tom Madsen,
+                          Michael Seifert and Sebastian Hammer
+Original Merc 2.1 code by: Hatchet, Furey, and Kahn 
+ROM 2.4 copyright (c) 1993-1998 Russ Taylor
+SMAUG 1.4 written by Thoric (Derek Snider) with Altrag, Blodkai, Haus, Narn,
+Scryn, Swordbearer, Tricops, Gorog, Rennard, Grishnakh, Fireblade and Nivek 
+
+Type your name and password if you have an account.
+Type NEW to create a new one.
+If you don't want to do something then type BYE to leave.
+~
+End
+Keyword logout~
+Level -1
+Text
+.
+    .d8888b.                         888 888
+   d88P  Y88b                        888 888
+   888    888                        888 888
+   888         .d88b.   .d88b.   .d88888 88888b.  888  888  .d88b.
+   888  88888 d88""88b d88""88b d88" 888 888 "88b 888  888 d8P  Y8b
+   888    888 888  888 888  888 888  888 888  888 888  888 88888888
+   Y88b  d88P Y88..88P Y88..88P Y88b 888 888 d88P Y88b 888 Y8b.
+    "Y8888P88  "Y88P"   "Y88P"   "Y88888 88888P"   "Y88888  "Y8888
+                                                       888
+                                                  Y8b d88P
+    Come back soon...                              "Y88P"
+~
+End
+Keyword motd~
+Level -1
+Text
+.
+************************************************************************
+* If you are a new user, type 'help newbie' for more information.      *
+* If you have any problems, type 'mail admins' to connect admins.      *
+* If you need any help, type 'help' ot 'help <topic>'.                 *
+************************************************************************
+
+~
+End
+Keyword admin~
+Level 3
+Text
+*************************************************************************
+* Admin commands:                                                       *
+*       addforum        delforum        setforum        statforum       *
+*       validate        sockets         echo            reboot          *
+*       banish          userset         memory          hostname        *
+*       deluser         saveall         snoop                           *
+*       force           invis           ac              disconnect      *
+*       showmods        shutdown                                        *
+*************************************************************************
+* Type 'help <topic>' for more information on topic                     *
+*************************************************************************
+~
+End
+Keyword moderator~
+Level 0
+Text
+*************************************************************************
+* Moderator commands:                                                   *
+*       kick            unkick          foruminfo       stats           *
+*************************************************************************
+* Type 'help <topic>' for more information on topic                     *
+*************************************************************************
+~
+End
+Keyword summary~
+Level 0
+Text
+*************************************************************************
+* Communication commands:                                               *
+*       x               reply           mail            from            *
+*       mx              feeling                                         *
+*************************************************************************
+* Information commands:                                                 *
+*       age             finger          help            time            *
+*       who             Who             xers            whoami          *
+*************************************************************************
+* Forum related commands:                                               *
+*       clip            forumlist       info            jump            *
+*       list            new             newmsgs         note            *
+*       read            sendclip        showclip        zap             *
+*       look            readall         anonnote        search          *
+*       readlast        previous        next            fnotify         *
+*************************************************************************
+* Other commands:                                                       *
+*       alias           bug             cls             enemy           *
+*       friend          idea            password        plan            *
+*       quit            save            title           toggle          *
+*       unalias         version         uptime          notify          *
+*       hide            unhide          set             ignore          *
+*************************************************************************
+* Other Help Topics:                                                    *
+*       diku            merc            rom             smaug           *
+*************************************************************************
+* Type 'help <topic>' for more information on topic                     *
+*************************************************************************
+~
+End
+Keyword age~
+Level 0
+Text
+Name       : age
+Synopsis   : age
+Description:
+
+This command lets you see the total length of time that you have
+been online.
+~
+End
+Keyword who~
+Level 0
+Text
+Name       : who
+Synopsis   : who -f|-n|-e|-h
+Description:
+
+This command shows you all users online with various items of
+information such as their partial IP address, how long they are
+online, and their titles.  * sign in front of the ip address
+column means, that user is toggled his/her message express, and
+you cannot send X messages to that user if you are not in that
+user's friend list.  This list is sorted according to the users'
+online time.
+
+    who -f          Lists online users that are in your frield list.
+    who -n          Lists online users that are in your enemy list.
+    who -e          Lists online users that are in your notify list.
+    who -h          This help.
+~
+End
+Keyword finger~
+Level 0
+Text
+Name       : finger
+Synopsis   : finger <nickname>
+Description:
+
+This command helps you to get some information about another user.You can 
+hide or make public your finger info by using "hide" and "unhide" commands.
+You can use "f" instead of "finger". You can also add a message of maximum 
+5 lines to your finger information by using "profile" command. Please check
+"hide" and "unhide" commands for hiding your finger information.
+~
+End
+Keyword Who~
+Level 0
+Text
+Name       : Who
+Synopsis   : Who <forum name>
+Description:
+
+This command is used to show the users' names and locations. * sign means the
+same as who list. 
+~
+End
+Keyword help~
+Level 0
+Text
+Name	   : help
+Synopsis   : help <command>
+
+This command gives detailed information about various commands.
+~
+End
+Keyword xers~
+Level 0
+Text
+Name       : xers
+Synopsis   : xers
+
+This command shows you the names of users who are currently xing or replying
+you.
+~
+End
+Keyword time~
+Level 0
+Text
+Name       : time
+Synopsis   : time
+
+This command gives you the local date and time of BBS.
+~
+End
+Keyword whoami~
+Level 0
+Text
+Name       : whoami
+Synopsis   : whoami
+
+This command shows you, who you are.
+~
+End
+Keyword x~
+Level 0
+Text
+Name       : x
+Synopsis   : x or x <nickname>
+
+This command lets you send an express message to another user upto 5 lines.
+Yuo can abort the message by typing '-q` on an empty line. You may want to 
+refuse incoming x messages by toggling x. 
+~
+End
+Keyword mx~
+Level 0
+Text
+Name       : mx
+Synopsis   : mx
+
+This commands is used to look your message history that you had done before.
+~
+End
+Keyword reply~
+Level 0
+Text
+Name       : reply
+Synopsis   : reply
+
+You can use this command as a shortcut of x message. This command will send
+an x message to whom he/she sent the last message to you. 
+~
+End
+Keyword mail~
+Level 0
+Text
+Name       : mail
+Synopsis   : mail or mail <nickname>
+
+You can get further information about this command by simply typing mail and ?.
+~
+End
+Keyword from~
+Level 0
+Text
+Name       : from
+Synopsis   : from
+
+This command shows the headers of your new mail messages.
+~
+End
+Keyword clip~
+Level 0
+Text
+Name       : clip
+Synopsis   : clip <number of note>
+
+This command copies the note to your clipboard in case you may want to 
+take copies. You can then see it with "showclip" command, or you may send
+it to your e-mail address with "sendclip" command.
+~
+End
+Keyword forumlist~
+Level 0
+Text
+Name       : forumlist
+Synopsis   : forumlist
+
+This command shows you the list of available forums in BBS. You may
+want to use a shortcut, "fl". If your terminal supports ansi, you may see
+the forums you zapped and you read in different colors.
+
+You might sometimes see some signs in front of forum names.  The list of
+these signs and their means are:
+
+!   -   You are kicked from that forum by the moderator.
+*   -   Either users are not permitted to post in those forums or forums
+        do not have a board for posting.
+~
+End
+Keyword info~
+Level 0
+Text
+Name       : info
+Synopsis   : info
+
+This command will give you a brief information about the forum,
+which you are currently in, and the rules of forum.
+~
+End
+Keyword jump~
+Level 0
+Text
+Name       : jump
+Synopsis   : jump <forum name> or jump <forum number>
+
+This command lets you go into a forum. You may want to use a shortcut for this
+command, "j". 
+~
+End
+Keyword list~
+Level 0
+Text
+Name       : list
+Synopsis   : list
+
+This command is used in forums in order to see a brief list of
+messages. 
+~
+End
+Keyword new~
+Level 0
+Text
+Name       : new
+Synopsis   : new
+
+This commands shows you the new messages one by one to you when you enter
+a forum with unread messages.
+~
+End
+Keyword newmsgs~
+Level 0
+Text
+Name       : newmsgs
+Synopsis   : newmsgs
+
+This command shows you how many new messages there are in forums that you 
+keep reading. You may want to use a shortcut for this command, "nm".
+~
+End
+Keyword note~
+Level 0
+Text
+Name       : note
+Synopsis   : note <subject>
+
+This command is used to leave notes in forums. In the editor screen, you can
+abort writing by typing "-q" and finish note by typing "**".
+~
+End
+Keyword read~
+Level 0
+Text
+Name       : read
+Synopsis   : read <number of note>
+
+This command is used to read a specific number of note.
+~
+End
+Keyword sendclip~
+Level 0
+Text
+Name       : sendclip
+Synopsis   : sendclip
+
+This command send your clipboard materials to your e-mail address.
+~
+End
+Keyword showclip~
+Level 0
+Text
+Name       : showclip
+Synopsis   : showclip
+
+This command will let you see the last note you copied to your clipboard.
+~
+End
+Keyword zap~
+Level 0
+Text
+Name       : zap
+Synopsis   : zap <forum name>
+
+This command makes the forums you don't read, invisible for you. If you zap
+a forum you will no longer see the forum's name in newmsgs screen unless you
+jump again and read a note from that forum.
+~
+End
+Keyword look~
+Level 0
+Text
+Name       : look
+Synopsis   : look
+
+This command is used to see current users who are using the forum with you.
+~
+End
+Keyword previous~
+Level 0
+Text
+Name       : previous
+Synopsis   : previous
+
+After you read a note either with read or new command, executing this will
+display the previous note in current forum.  If no new or read command is
+executed previously, it will start to show the messages backwards beginning
+from the last note you read in the forum. Keep in mind that the notes you
+read with this command are not reflected as a change to your new message list.
+~
+End
+Keyword next~
+Level 0
+Text
+Name       : next
+Synopsis   : next
+After you read a note either with read or new command, executing this will
+display the next note in current forum.  If no new or read command is executed
+previously, it will start to show the messages beginning from the last note
+you read in the forum.  Keep in mind that the notes you read with this command
+are not reflected as a change to your new message list.
+~
+End
+Keyword readall~
+Level 0
+Text
+Name       : readall
+Synopsis   : readall
+
+This command reads all the current new messages without showing you.
+~
+End
+Keyword readlast~
+Level 0
+Text
+Name       : readlast
+Synopsis   : readlast
+
+This command reads the last message in a forum.
+~
+End
+Keyword alias~
+Level 0
+Text
+Name       : alias
+Synopsis   : alias <new character> <command>
+
+This command creates an alias for any command.
+~
+End
+Keyword bug~
+Level 0
+Text
+Name       : bug
+Synopsis   : bug <message>
+
+This command will let you warn the system about a bug you found.
+~
+End
+Keyword cls~
+Level 0
+Text
+Name       : cls
+Synopsis   : cls
+
+This command will clear the screen.
+~
+End
+Keyword enemy~
+Level 0
+Text
+Name       : enemy
+Synopsis   : enemy -r|-f <nickname> <comment>
+
+This list is for your enemies.  If you don't want to receive express messages
+from someone, just put his/her name into this list.  Optional part lets you
+write a comment upto 60 characters about the user.  You can use -r to remove
+a user from your enemy list.  Maximum number of enemies that you can put into
+your list is 50.  -f option is used to completely delete your enemy list.
+
+Examples: enemy deneme example (puts user Deneme into your enemy list)
+          enemy -r deneme      (removes user Deneme from your enemy list)
+          enemy -f             (completely deletes your enemy list)
+          enemy                (prints your enemies to the screen)
+~
+End
+Keyword ignore~
+Level 0
+Text
+Name      : ignore
+Synopsis  : ignore -r|-f <nickname> <comment>
+
+Similar to the enemy list, you can ignore the notes of people by putting them
+into this list. "list" and "new" commands will not show their notes in any
+way.  However, you can still read the notes of someone from your ignore list
+with "read", "previous", and "next" commands. Maximum comment length is 60
+charactersand list can take at most 50 users.
+PS: Forum Moderators; your ignore list will not be checked in your forum.
+
+Examples: ignore deneme example (puts user Deneme into your ignore list)
+          ignore -r deneme      (removes user Deneme from your ignore list)
+          ignore -f             (completely deletes your ignore list)
+          ignore                (prints your ignore list to the screen)
+~
+End
+Keyword fnotify~
+Level 0
+Text
+Name       : fnotify
+Synopsis   : fnotify -r|-f <forum name>
+
+If you notify a forum using this command, when a note is left on that forum
+you get a message indicating that a note is left on the board.
+
+Examples: fnotify husky    (puts Husky forum in your forum notify list)
+          fnotify -f       (completely deletes your forum notify list)
+          fnotify -r husky (removes Husky forum from your forum notify list)
+          fnotify          (prints your forum notify list to the screen)
+~
+End
+Keyword notify~
+Level 0
+Text
+Name       : notify
+Synopsis   : notify -r|-f <nickname> <comment>
+
+This list is also for your friends but only difference from friend command
+is that a user in your notify list cannot send eXpress messages to you while
+you are X disabled.  This is only used for notification when someone in this
+list enters the BBS.  Optional part lets you write a comment upto 60
+characters about the user.  You can use -r to remove a user from your notify
+list.  Maximum number of users that you can put into your list is 50.
+Option -f is used to completely delete your notify list.
+
+Examples: notify deneme example (puts user Deneme in your notify list)
+          notify -r deneme      (removes user Deneme from your notify list)
+          notify -f             (completely deletes your notify list)
+          notify                (prints your notify list to the screen)
+~
+End
+Keyword friend~
+Level 0
+Text
+Name       : friend
+Synopsis   : friend -r|-f <nickname> <comment>
+
+This list is for your friends.  If you want to receive eXpress messages from
+a user while being eXpress disabled, just put his/her name into this list.
+Optional part lets you write a comment upto 60 characters about the user.  You
+can use -r to remove a user from your friend list.  Maximum number of friends
+that you can put into your list is 50.  -f option is used to completely delete
+your friend list.
+
+Examples: friend deneme example (puts user Deneme into your friend list)
+          friend -r deneme      (removes user Deneme from your friend list)
+          friend -f             (completely deletes your friend list)
+          friend                (prints your friends to the screen)
+~
+End
+Keyword idea~
+Level 0
+Text
+Name      : idea
+Synopsis  : idea <message>
+
+This command is used to suggest the system administrators new enhancements 
+for the BBS. You may also send an email to hdogan@bilcag.net for further 
+discussions.
+~
+End
+Keyword password~
+Level 0
+Text
+Name      : password
+Synopsis  : password
+
+This command lets you change your password.
+~
+End
+Keyword plan~
+Level 0
+Text
+Name      : plan
+Synopsis  : plan
+
+This command is used to enter a message upto 5 lines to describe yourself.
+~
+End
+Keyword quit~
+Level 0
+Text
+Name      : quit
+Synopsis  : quit
+
+This command quits your BBS login.
+~
+End
+Keyword save~
+Level 0
+Text
+Name      : save
+Synopsis  : save
+
+This command saves your user data.
+~
+End
+Keyword title~
+Level 0
+Text
+Name      : title
+Synopsis  : title <title>
+
+This commands lets you change your title. You can make your title colorful if
+you have ANSI support:
+
+   ##r -> #r red#x
+   ##b -> #b blue#x
+   ##y -> #y yellow#x
+   ##g -> #g green#x
+   ##m -> #m magenta#x 
+   ##c -> #c cyan#x
+   ##w -> #w white#x
+   ##D -> #D dark#x
+~
+End
+Keyword toggle~
+Level 0
+Text
+Name      : toggle
+Synopsis  : toggle <option>
+
+This command lets you change some options such as; express message,
+beep , ansi color, idle mode, notify channel, auto xers, and feeling.
+~
+End
+Keyword unalias~
+Level 0
+Text
+Name      : unalias
+Synopsis  : unalias <aliased character>
+
+This command removes the alias you already defined.
+~
+End
+Keyword feeling~
+Level 0
+Text
+Name      : feeling
+Synopsis  : feeling or feeling <nickname>
+
+This command is used to send one of the feelings in feeling list to a user.
+It works like x command. You can specify the user name on command line or
+only type "feeling" followed by a carriage return then give the user name.
+When you do, you will see a list of feelings.  Type in the letter for a
+feeling or q to abort the message (or enter key to quit).
+~
+End
+Keyword version~
+Level 0
+Text
+Name      : version
+Synopsis  : version
+
+This command shows you the version of BBS.
+~
+End
+Keyword uptime~
+Level 0
+Text
+Name      : uptime
+Synopsis  : uptime
+
+This command shows the last rebooting time of BBS.
+~
+End
+Keyword hide~
+Level 0
+Text
+Name      : hide
+Synopsis  : hide <option>
+
+This command is used to hide your personal information from other users
+such as; real name, e-mail, alternative e-mail, icq number and homepage url.
+~
+End
+Keyword unhide~
+Level 0
+Text
+Name      : unhide
+Synopsis  : unhide <option>
+
+This command is used to unhide your hidden personal information in order to
+show other users such as; real name, e-mail, alternative e-mail , icq number
+and homepage url.
+~
+End
+Keyword set~
+Level 0
+Text
+Name      : set
+Synopsis  : set <option> <argument>
+
+This command is used to set your personal information such as; title, 
+alternative e-mail, homepage url, icq number and idle message.
+Options you can set and their maximum lengths are as follows:
+Homepage Url      : 100
+Alternative E-mail: 50
+Idle Message      : 75
+Title             : 35
+ICQ Number        : 8
+~
+End
+Keyword kick~
+Level 0
+Text
+Name     : kick
+Synopsis : kick <nickname> <time> <reason>
+
+This command kicks the user from your own moderated forum.
+~
+End
+Keyword remove~
+Level 0
+Text
+Name     : remove
+Synopsis : remove <number of note>
+
+This command removes the given number of note from your own moderated forum.
+~
+End
+Keyword search~
+Level 0
+Text
+Name     : search
+Synopsis : search <string>
+
+This command searches the given string in all of the notes inside a forum
+and gives a list of notes including the search string.  Search string doesn't
+have to be an exact match of any word.  Since this command also checks for
+the substring matches of the string while going through the notes.  Case
+sensitivity is ignored for better results.
+~
+End
+Keyword MAIL_DATA-INDEX~
+Level 0
+Text
+.
+      ? or h  -    Get help using this command
+      ##1      -    Read a message numbered ##1
+      r       -    Reply a message
+      c       -    Compose and send a message
+      l       -    View messagess
+      <cr>    -    Read a current NEW message
+      q       -    Exit the mail program
+~
+End
+Keyword diku~
+Level 0
+Text
+.                    Original game idea, concept, and design:
+
+          Katja Nyboe               [Superwoman] (katz@freja.diku.dk)
+          Tom Madsen              [Stormbringer] (noop@freja.diku.dk)
+          Hans Henrik Staerfeldt           [God] (bombman@freja.diku.dk)
+          Michael Seifert                 [Papi] (seifert@freja.diku.dk)
+          Sebastian Hammer               [Quinn] (quinn@freja.diku.dk)
+
+
+Developed at: DIKU -- The Department of Computer Science
+                      at the University of Copenhagen.
+
+~
+End
+Keyword merc~
+Level 0
+Text
+This code is based on Merc 2.1, created by Furey, Hatchet, and Kahn.    
+Merc 2.1 is available as Merc_21.tar.gz from ftp.tcp.com and
+ftp.math.okstate.edu.
+E-mail to 'majordomo@webnexus.com' to join the merc mailing list.
+
+Thanks to ...
+  ... Diku Mud for starting it all.
+  ... The Free Software Foundation and DJ Delorie for kick-ass tools.
+  ... Copper Mud and Alfa Mud for releasing their code and worlds.            
+  ... Aod of Generic for ... well, everything.  You're a hoopy frood, Aod.  
+  ... Alander for many ideas and contributions.
+  ... John Brothers of Silly for permission to use Silly code and worlds.
+  ... Zrin for administering the mailing list.
+  ... Abaddon for proofreading our comm.c.
+  ... Hind, Quin, Vic, Diavolo, Oleg, Trienne, and others for porting help.
+  ... Diavolo, Grodyn, Morgenes, and others for code and bug fixes.
+  ... Raff, Doctor, VampLestat, Nirrad, Tyrst, PinkF, Chris, Glop for worlds.
+  ... the players and imps of Mud Dome, Final Mud, Mud Lite, Vego Mud, Rivers
+      of Mud, Ruhr Mud, and Mystic Realms for bug reports, ideas, new code,
+      and hours of enjoyment.
+~
+End
+Keyword rom~
+Level 0
+Text
+ROM started in early February 1993, using Merc 1.0 code. In July of 1993,
+ROM II was started, eventually replacing the original ROM.  ROM was up for
+a little over a year, after which the code (version 2.3) was released,
+and various other ROM muds were started, including Rivers of Mud under      
+a new management (Zump's ROM), at rom.org 9000.
+
+Alander's current project is Athen, the sequel to the ROM code. It can
+be found on Rehobaom's Legacy, at hypercube.org 9000.
+
+The following people contributed to the ROM flavor of the merc base code:
+
+Socials --
+    Kelsey and Liralen
+
+New, Improved Valhalla --
+    Liralen
+
+Puff's new special proc and improved poofin/poofout code --              
+    Seth
+
+Maps and map shop --
+    Ezra, Regnan (Olympus)
+
+Nirvana zone --
+    Forstall (mobiles rewritten by Alander)          
+
+Mob Factory --
+    Pinkfloyd (originally written for ROM, mobiles rewritten by Alander)
+
+Geographically correct Midgaard (tm) --
+    Alander
+
+Ideas and playtesting --
+    Thousands of dedicated mudders around the world
+
+The New Thalos area was donated by Onivel of Jedi, who was also the originator
+of the ASCII flags used in the zone files
+
+Beta testing --           
+    Ken Blosser, Doug Araya, and Sherene Neil all helped with bugs reports
+    and suggestions, saving a lot of headaches
+
+Bug reports --
+    Thanks to Shad Muegge, Jerome Despret, Phoenix, Will Hongach,
+    Erwin S. Andreasen, Adam Debus and especially Gary Turkington       
+    (author of the ROM FAQ) for help spotting bugs
+
+ROM 2.4 was developed during my time with Moosehead mud, and the release
+shares many of the features I wrote while I was there.  Additional code
+was written by Seth Scott (the new poofin/poofout), and many contributions
+and ideas from the Merc list were used.  Portions of Rusty's work on
+Moosehead also remain.
+
+The new features of 2.4 were largely produced in bull sessions with
+Gabrielle Taylor and Brian Moore, without whom this release wouldn't
+have happened.  In particular, the new privacy code, furniture, and
+wiznet are the results of Gabrielle's ideas.
+
+Changes to the standard diku mob and object format, as well as the changes
+to Merc 2.1 source code, were done by Alander over many a late night of
+hair-pulling. Hope you enjoy it.
+
+(my apologies if anyone was forgotten in this list)
+
+~
+End
+Keyword smaug~
+Level 0
+Text
+SMAUG (c) 1995, 1996, 1997, 1998 D.S.D. Software.
+
+For more information see the 'doc/smaug.license' file.
+
+~
+End

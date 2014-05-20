@@ -1,0 +1,18 @@
+Short     lobby~
+Long      Lobby~
+Lastvnum  0
+Moderator None~
+Type      2
+Vnum      1
+Capacity  150
+Info      None~
+End
+Short     husky~
+Long      Husky~
+Lastvnum  0
+Moderator None~
+Type      1
+Vnum      2
+Capacity  150
+Info      None~
+End
